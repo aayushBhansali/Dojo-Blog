@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tortor.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Why Crypto is the Future",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tortor.",
+      "tags": [
+        "webdev",
+        "css",
+        "crypto"
+      ]
+    },
+    {
+      "title": "New Trends in AI",
+      "body": "ashalahfa asfskfj afpgosgd ahsfhapf pgjjadg, afajofja gajodogaj ga gapgodajgaop ajgogjpasjg agjao",
+      "tags": [
+        "AI",
+        "ML",
+        "ComputerScience",
+        "Robotics"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Use of Machine Learning in Economics",
+      "body": "afaskhfa afapfoahsf apofhao aoghoshgih ighdshgs spgjajfas bfaksfks.",
+      "tags": [
+        "News",
+        "ML",
+        "Trends"
+      ],
+      "id": 4
+    }
+  ]
+}

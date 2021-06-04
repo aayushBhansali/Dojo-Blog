@@ -1,6 +1,8 @@
 # dojo-blog
 
-## Project setup
+## A simple blogging app made with Vue.js
+
+### Project setup
 ```
 npm install
 ```
